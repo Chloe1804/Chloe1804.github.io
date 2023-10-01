@@ -8,13 +8,14 @@ body {
 }
 
 h1 {
-  color: white;
+  color: darkolivegreen ;
   text-align: center;
 }
 
 p {
-  font-family: verdana;
-  font-size: 19px;
+ color: darkolivegreen; /* Hier wordt de tekstkleur ingesteld op darkolivegreen*/
+ font-family: verdana;
+ font-size: 19px;
 }
 ul {
   list-style-type: none;
